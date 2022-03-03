@@ -24,6 +24,7 @@ Partially Compatible (Does not Check/Ignores Bedrock Players)
 
 Incompatible (False Positives on Bedrock Players, no Compatibility at All)
 
+- [AACAdditionPro] (https://www.spigotmc.org/resources/aacadditionpro.33590/) - Last Updated on 11th Feb 2022
 - [AntiCheatReloaded](https://www.spigotmc.org/resources/23799/) - Last Updated on 19th August 2021
 - [Negativity](https://www.spigotmc.org/resources/86874/) - Last Updated on 19th August 2021
 - [NoCheatPlus](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) ([Compat NCP](https://github.com/Updated-NoCheatPlus/CompatNoCheatPlus/) is an addon that enables Partial Compatibility) - Last Updated on 19th August 2021
